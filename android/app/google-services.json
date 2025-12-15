@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909019741454",
+    "project_id": "expanse-calculation-app",
+    "storage_bucket": "expanse-calculation-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909019741454:android:5aba3481b917e0a250ab5f",
+        "android_client_info": {
+          "package_name": "com.example.expanse_calculation_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc92DGScpqEHvjok4dLVabifQdONwT_s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
